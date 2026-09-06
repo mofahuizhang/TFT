@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Shao"
+    given-names: "Shoupeng"
+title: "TFT: Truncation Framework of Trust — A Contract-Trust Coordinate System Based on Attention Scarcity"
+version: 1.0
+date-released: "2026-07-01"
+url: "https://gitee.com/mofahuizhang/TFT"
+license:
+  - "CC-BY-NC-4.0"
+abstract: "TFT (Truncation Framework of Trust) is an original academic framework that reconceptualizes trust as a cognitive economic behavior: trust is truncation — under attention scarcity constraints, agents stop monitoring at some point and fill the unmonitored gap with trust extrapolation. With attention scarcity as the sole axiom and fct (monitoring coverage, [0,1]) as the core variable, the framework constructs a two-dimensional coordinate system of Contract axis (X, approximately 10*fct) and Trust axis (Y, independent dimension), classified into four quadrants (stable collaboration / emotional safety net / fragile game / contractual defense). The bounded rationality theorem derives three testable corollaries. The framework spans three interaction layers: natural persons, organizations, and human-machine. Theoretical roots: Fei Xiaotong's 'differential mode of association' + Herbert Simon's attention scarcity and bounded rationality. Includes an AI industry application monograph with nine chapters (semantic understanding causal chains, RLHF annotation fct bottleneck, human-computer interaction trust state recognition, product positioning XY strategy, AI alignment dual-axis matching, safety attribution X/Y separation, multi-agent trust transmission, regulatory stratification, attention subsidy and monopoly lock-in) plus a methodology self-check chapter."
+keywords:
+  - "trust"
+  - "attention scarcity"
+  - "bounded rationality"
+  - "contract theory"
+  - "coordinate system"
+  - "monitoring coverage"
+  - "trust truncation"
+  - "AI industry"
+  - "RLHF"
+  - "AI alignment"
+  - "Herbert Simon"
+  - "Fei Xiaotong"
