@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Shao"
+    given-names: "Shoupeng"
+title: "TFT: Truncation Framework of Trust — A Contract-Trust Coordinate System Based on Attention Scarcity"
+version: 1.0
+date-released: "2026-07-01"
+url: "https://github.com/mofahuizhang/TFT"
+license:
+  - "CC-BY-NC-4.0"
+abstract: "TFT (Truncation Framework of Trust) is an original academic framework that reconceptualizes trust as a cognitive economic behavior: trust is truncation — under attention scarcity constraints, agents stop monitoring at some point and fill the unmonitored gap with trust extrapolation."
+keywords:
+  - "trust"
+  - "attention scarcity"
+  - "bounded rationality"
+  - "contract theory"
+  - "coordinate system"
+  - "trust truncation"
+  - "AI industry"
+  - "RLHF"
+  - "AI alignment"
