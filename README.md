@@ -5,6 +5,8 @@
 > **v1.0**（2026-07）—— 著作权登记版，首次公开发布。
 > 完整文档：[docs/TFT-v1.0-full.md](docs/TFT-v1.0-full.md)
 > AI产业应用：[docs/TFT-AI-Industry-v1.0.md](docs/TFT-AI-Industry-v1.0.md)
+>
+> 两篇正文以江苏版权登记件为准：`docs/登记原件/` 存登记 docx 原件，正文 md 由原件转出。
 
 ---
 
@@ -207,8 +209,9 @@ TFT/
 ├── CHANGELOG.md                     # 版本变更记录
 ├── CITATION.cff                     # 学术引用格式
 ├── docs/
-│   ├── TFT-v1.0-full.md            # 主文档：信任截断分析框架（732行，著作权登记版）
-│   └── TFT-AI-Industry-v1.0.md     # AI产业应用专题（361行，九章+方法论自检）
+│   ├── TFT-v1.0-full.md            # 主文档：信任截断分析框架（著作权登记版，原件转出）
+│   ├── TFT-AI-Industry-v1.0.md     # AI产业应用专题（九章+方法论自检，原件转出）
+│   └── 登记原件/                    # 江苏版权登记 docx 原件两件
 └── .gitignore
 ```
 
@@ -233,10 +236,11 @@ TFT/
 
 ## 相关项目
 
-- [nACGD](https://gitee.com/mofahuizhang/nACGD) —— 层级化通用认知框架：人类与AI协同认知底座
-- [LBAF](https://gitee.com/mofahuizhang/LBAF) —— 损益分析框架：医学统计应用与人工智能结构复用
-- [SUI](https://gitee.com/mofahuizhang/SUI) —— 语义寻址语言：面向大模型的语义编码协议
-- [SCION](https://gitee.com/mofahuizhang/SCION) —— 提示词寻址篇：面向大模型的外部语义控制层
+- [nACGD](https://github.com/mofahuizhang/nACGD) —— 层级化通用认知框架：人类与AI协同认知底座
+- [LBAF](https://github.com/mofahuizhang/LBAF) —— 损益分析框架：医学统计应用与人工智能结构复用
+- [SUI](https://github.com/mofahuizhang/SUI) —— 语义寻址语言：面向大模型的语义编码协议
+- [SCION](https://github.com/mofahuizhang/SCION) —— 提示词寻址篇：面向大模型的外部语义控制层
+- [Gn](https://github.com/mofahuizhang/Gn) —— 通用病机分析框架
 
 ---
 
